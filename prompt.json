@@ -1,0 +1,232 @@
+[
+  {
+    "key": "选品灵感-兴趣",
+    "value": "美国最受欢迎的10种汽配热销的商品"
+  },
+  {
+    "key": "选品灵感-场景",
+    "value": "美国人常购买哪些产品于他们的汽车中？"
+  },
+  {
+    "key": "选品灵感-类目",
+    "value": "给我一些ebay美国站点汽配类的产品开发建议，要求有潜在较大的市场和较少的竞争，同时也提供最相关的英文搜索关键词。"
+  },
+  {
+    "key": "选品灵感-人群",
+    "value": "美国登山爱好者常购买的商品有哪些？"
+  },
+  {
+    "key": "选品灵感-市场容量",
+    "value": "分析美国{汽配类产品}市场容量年销售额，生命周期、年增长趋势以及旺季与淡季的季节性。"
+  },
+  {
+    "key": "选品灵感-竞争情况",
+    "value": "详细分析{portable power station}在美国市场的竞争情况。"
+  },
+  {
+    "key": "选品灵感-头部公司",
+    "value": "分析美国市场上头部的{portable power station}品牌，包括它们的国家、成立日期、公司背景、年收入、在{portable power station}市场份额和核心竞争力，并以表格形式呈现结果。"
+  },
+  {
+    "key": "选品灵感-产品情况",
+    "value": "从多个方面和维度全面介绍{某个汽配产品}。"
+  },
+  {
+    "key": "选品灵感-产品功能",
+    "value": "详细阐述{某个汽配产品}有哪些款式，功能。"
+  },
+  {
+    "key": "选品灵感-成本售价",
+    "value": "{某个汽配产品}的平均成本，在美国市场平均客单价。"
+  },
+  {
+    "key": "选品灵感-产品构成",
+    "value": "{某个汽配类产品}由哪些材料和部件组成，他们的成本占比是多少，用表格"
+  },
+  {
+    "key": "选品灵感-产品痛点",
+    "value": "{某个汽配类产品}解决了哪些痛点,还有哪些痛点未被解决?"
+  },
+  {
+    "key": "选品灵感-产品受众",
+    "value": "分析{某个汽配类产品}在{美国}的目标受众，包含性别、年龄、兴趣、收入、教育程度、家庭情况以及常购买的汽配类产品。"
+  },
+  {
+    "key": "选品灵感-产品场景",
+    "value": "列出{某个汽配产品}所有的应用场景"
+  },
+  {
+    "key": "品牌名",
+    "value": "我销售的产品是{某个汽配产品}，给我取10个英文品牌名，要求在市场上没有出现过，简洁，让人印象深刻。"
+  },
+  {
+    "key": "品牌口号",
+    "value": "请帮我的品牌{品牌名}，所销售产品{某个汽配产品}，用英文撰写5条slogan，具有感染力，并翻译为中文。"
+  },
+  {
+    "key": "品牌故事",
+    "value": "请帮我的品牌{品牌名}，所销售产品{某个汽配产品}，用英文撰写1条slogan，并围绕slogan撰写一个品牌故事。品牌故事不仅要展示品牌的{专业性}，还要{唤起客户的情感和共鸣}，从而打动消费者激发购买欲，并翻译为中文。"
+  },
+  {
+    "key": "关键词挖掘",
+    "value": "挖掘ebay美国站与{某个汽配产品}最相关的热门搜索词,根据谷歌趋势，按降序排列并给出相应的值。"
+  },
+  {
+    "key": "长尾词挖掘",
+    "value": "挖掘美国站与关键词{portable power station}有高相关性和高搜索量的长尾关键词，按照功能、使用场景和人群进行划分。根据谷歌趋势以降序排列，并给出相应的数值。"
+  },
+  {
+    "key": "产品标题",
+    "value": "根据下面信息，用英文生成亚马逊标题，并埋入以下关键词：{solar generator,portable generator},产品信息如下：{Anker, LiFePO4 Battery, 1000W/1200WH, fast charging for 30 minutes, 2 Ac ports. 1 DC port.5 USB ports, LED lights, for outdoor lovers}。"
+  },
+  {
+    "key": "同义词挖掘",
+    "value": "挖掘美国站关键词{某个汽配产品}的同义词和西语词。根据谷歌趋势以降序排列，并给出相应"
+  },
+  {
+    "key": "产品五行",
+    "value": "根据下面信息，用英文生成亚马逊Bullet Points使文案更加生动打动消费者，并埋入以下关键词：{solar generator,portable generator},产品信息如下：{Anker, LiFePO4 Battery, 1000W/1200WH, fast charging for 30 minutes, 2 Ac ports. 1 DC port.5 USB ports, LED lights, for outdoor lovers}."
+  },
+  {
+    "key": "产品描述",
+    "value": "根据下面信息，用英文生成亚马逊产品描述，包含产品参数，产品卖点，产品包装，使用说明。描述配上相应的emoji使文案更加生动，并埋入以下关键词：{solar generator,portable generator},产品信息如下：{Anker, LiFePO4 Battery, 1000W/1200WH, fast charging for 30 minutes, 2 Ac ports. 1 DC port.5 USB ports, LED lights, for outdoor lovers}，用html格式输出。"
+  },
+  {
+    "key": "Listing分析",
+    "value": "请分析以下Listing内容，从亚马逊规则，SEO，语法，内容，语言本土化，专业性，号召性等方面评估Listing的质量，并打分（满分10分），最后给到打分理由：{listing}"
+  },
+  {
+    "key": "Listing优化",
+    "value": "根据亚马逊规则和SEO,语法，内容，本土化，专业性，号召力等方面对我以下{bullet points}进行优化,埋入以下关键词：{solar generator,portable generator}，并给到优化理由：{Listing}"
+  },
+  {
+    "key": "批量生成QA",
+    "value": "根据以下信息用{英文}生成客户对于{portable power station}最关心的{4}条问题并一一回答。产品信息：{Anker 521 储能电源, 256Wh Solar Generator (Solar Panel Optional) with LiFePO4 Battery Pack, 200W 6-Port PowerHouse, 2 AC Outlets, 60W USB-C PD Output, LED Light for Outdoor Camping, RV}；务必将以下关键词全部埋入内容中：{储能电源, power generator, solar generator, power supply, power bank}；"
+  },
+  {
+    "key": "批量生成Review",
+    "value": "根据以下信息用{英文}撰写{5}条产品评论(包含标题和内容）。信息如下：{Anker  portable power station, 256Wh Solar Generator (Solar Panel Optional) with LiFePO4 Battery Pack, 200W 6-Port PowerHouse, 2 AC Outlets, 60W USB-C PD Output, LED Light for Outdoor Camping, RV. },并埋入以下关键词：{portable power station, power generator, solar generator, power supply, power bank.}"
+  },
+  {
+    "key": "图片设计",
+    "value": "请为我的{portable power station}设计5张亚马逊图片（包含图片内容，文案，色调），要求整改调性统一，可以吸引消费者，提高点击率和转化率。以下是我的产品卖点{Anker, LiFePO4 Battery, 1000W/1200WH, fast charging for 30 minutes, 2 Ac ports. 1 DC port.5 USB ports, LED lights, for outdoor lovers}"
+  },
+  {
+    "key": "视频设计",
+    "value": "请为我的{portable power station}设计一个1分钟的视频脚本（包含运镜，视频内容，文案，音乐，不需要旁白），可以吸引消费者，提高点击率和转化率。以下是我的产品卖点{Anker, LiFePO4 Battery, 1000W/1200WH, fast charging for 30 minutes, 2 Ac ports. 1 DC port.5 USB ports, LED lights, for outdoor lovers}"
+  },
+  {
+    "key": "词频率分析",
+    "value": "请对下列关键词做单个词根词频分析，再将词根按照词属性划分（材质，大小，颜色，场景，人群，品牌，产品，功能），每个词根只对应一个最相关词属性，每个词根都需要做判断，对于无法判断的就输出“/”，用表格输出词根，词属性，出现频次和占比：{关键词}"
+  },
+  {
+    "key": "词属性分析",
+    "value": "请将下列关键词按照词属性划分（包括材质，大小，颜色，场景，人群，品牌，错别词，小语种词,功能），*每个关键词只对应一个最相关词属性，按照所给关键词顺序判断，每个关键词都需要做判断，对于无法判断的就输出“/”，用表格输出关键词和词属性两列：{关键词}"
+  },
+  {
+    "key": "词归纳分析",
+    "value": "归纳下列关键词可以由哪个核心关键词（*至少含有两个单词）通过词组匹配得出，每一个关键词只对应一个核心关键词(如，portable power station for camping对应的核心词是power station。portable power solar station对应的核心词是solar station，而不是power station。关键词必须能被核心关键词词组匹配到才能算对应。）按照所给关键词顺序判断，每个关键词都需要做判断，对于无法判断的就输出“/”，用表格输出关键词和核心关键词：{关键词}"
+  },
+  {
+    "key": "Post文案",
+    "value": "撰写5条关于{portable power station}的亚马逊post，要求前100个字符吸引人注意力，整个post语言生动有感染力能激发消费者购买欲，配上emoji；再配上3个相关大流量的hashtag标签，用英文输出，并翻译为中文。"
+  },
+  {
+    "key": "Post文案+场景描述",
+    "value": "撰写3条关于{portable power station}的亚马逊post，要求前100个字符吸引人注意力，整个post语言生动有感染力能激发消费者购买欲，配上emoji和对应产品场景图片的描述；再配上3个相关大流量的hashtag标签，用英文输出，并翻译为中文。"
+  },
+  {
+    "key": "SB/SD标题",
+    "value": "撰写5条{portable power station}亚马逊SB/SD标题，字数不超过50字符，标题具有感染力和号召力，用英文输出。"
+  },
+  {
+    "key": "关键词优化",
+    "value": "请分析以下广告数据中哪些搜索词应该否定，哪些搜索词可以加入到手动精准，哪些搜索词保留观察，请从CTR, CPC,SPEND, CVR, ACOS维度进行分析，并用表格给到分析结果：{广告数据}"
+  },
+  {
+    "key": "竞价优化",
+    "value": "请分析以下广告数据，哪些关键词需要增加bid，哪些关键词需要减少bid，并给到理由：{广告数据}"
+  },
+  {
+    "key": "预算优化",
+    "value": "根据提供的广告数据进行分析，哪些campaign应该增加预算，哪些campaign应该减少预算？，并给到理由：{广告数据}"
+  },
+  {
+    "key": "受众人群",
+    "value": "在美国{portable power station}的使用人群有哪些？"
+  },
+  {
+    "key": "受众分析",
+    "value": "请帮我分析{portable power station}在美国的受众人群分析，包括不限于他们的性别，年龄，兴趣，收入，教育，家庭情况和常购买产品。"
+  },
+  {
+    "key": "受众喜好",
+    "value": "美国{portable power station}的受众人群喜欢哪些话题内容，他们平时最常用的社媒平台有哪些？"
+  },
+  {
+    "key": "社媒推荐",
+    "value": "如果我要在美国推广{portable power station}可以使用哪些社媒平台推广？如果只选择其中一个平台，你会推荐哪个平台？原因是什么？"
+  },
+  {
+    "key": "挖掘红人",
+    "value": "找10个美国Youtube KOL与{portable power station}话题相关，粉丝数量在1w-10w粉丝，并给到他们的频道名称，粉丝数量，频道介绍，国家，并用表格输出结果。"
+  },
+  {
+    "key": "社媒搜索词",
+    "value": "{portable power station}的受众人群，最常在Youtube上搜索的关键词有哪些？"
+  },
+  {
+    "key": "红人开发信",
+    "value": "用英文撰写KOL合作邀请信，内容包括但不限于：1.主题;2. 自我介绍：我是pharaoh，Anker市场部经理;3.品牌介绍:我们的品牌是Anker，专注于portable power station；4.赞美红人：表达对红人portable power station测评的赞美；5.来信目的是与其关于{portable power station}的合作；6.产品功能介绍：portable power station，500WH，磷酸铁锂电池，安全性能好，续航能力强；7.要求：主题需要吸引人，整封信的语气亲切，内容生动有感染力，能让KOL感受到我们对他的重视和敬重。*最后把邮件翻译为中文。"
+  },
+  {
+    "key": "EDM营销",
+    "value": "用英文给我撰写一份{圣诞节}{portable power staton}EDM营销邮件，20%的折扣码:anker008。要求主题能吸引消费者眼球，文案生动有感染力，能激发顾客购买欲。最后把邮件翻译为中文。以下是我的产品信息和卖点：品牌，anker，500WH，磷酸铁锂电池，安全性能好，续航能力强。"
+  },
+  {
+    "key": "促销网址",
+    "value": "请帮我找10个美国可以推广{portable power staton}的促销亚马逊产品的折扣网站，给到网站名称，网站特点，网站流量，网站地址，用表格形式输出。"
+  },
+  {
+    "key": "Youtube脚本",
+    "value": "我们的{portable power station}需要做一个5分钟的YouTube视频宣传，请帮我设计视频脚本，包括视频内容，运镜，和背景音乐。以下是产品卖点{Anker, LiFePO4 Battery, 1000W/1200WH, fast charging for 30 minutes, 2 Ac ports. 1 DC port.5 USB ports, LED lights, for outdoor lovers}"
+  },
+  {
+    "key": "营销方案",
+    "value": "帮我做一份详细的关于{portable power station}的站外营销策划方案，包含PR、SNS、众筹、折扣网站、seo、sem，目的是提高品牌知名度和产品转换。"
+  },
+  {
+    "key": "引导删除差评",
+    "value": "用英文针对顾客的差评进行回复，要求如下：1.道歉安抚情绪；2.我们可以给顾客换一个新的或退款。3.感谢顾客的宝贵意见；4.巧妙引导客户删除差评，希望再给我们机会，*但不能提及review和feedback关键词；5.再次表示歉意和感谢顾客的理解。语气诚恳友好；6.最后将回复邮件翻译为中文。以下是顾客的评论：this portable power station doesn't work and can't charge"
+  },
+  {
+    "key": "退款分析",
+    "value": "分析以下退款数据，将相似的退款原因进行分组，记录它们出现的频次，按降序排序，并提供相应的解决措施。将结果以表格形式输出：{退款数据}"
+  },
+  {
+    "key": "订单分析",
+    "value": "分析以下订单数据，找出出单高峰时间段和出单较多的地区，用中文输出：{订单数据}"
+  },
+  {
+    "key": "POA",
+    "value": "我收到一份亚马逊关于{portable power station}{产品质量问题}的警告信，原因是{不能充电}，请帮我撰写一份英文poa，要求：1、承认错误，2、目前已经改善措施；3、未来如何避免此类问题发生；4、希望亚马逊给自己一次机会；5.表精简，语气诚恳。"
+  },
+  {
+    "key": "差评分析",
+    "value": "总结负面评论，将相似的差评分组，记录它们出现的频率，按照降序排序，并提供相应的措施来解决它们。以表格格式输出结果：{差评数据}"
+  },
+  {
+    "key": "反馈分析",
+    "value": "总结负面反馈，将相似的负面反馈分组，记录它们的发生频率，按降序排序，并提供相应的措施来解决它们。以表格形式输出结果：{反馈数据}"
+  },
+  {
+    "key": "QC流程",
+    "value": "列出{portable power station}常出现的问题有哪些，建立一套相应的全面详细的QC质检流程, 目的是提前发现缺陷产品，降低产品退款率，用中文输出。"
+  },
+  {
+    "key": "包装设计",
+    "value": "为我设计{portable power station}的产品包装，包含但不限于包装方案，材质，文案，图片，配色，排版,请详细阐述，并给到设计理由。"
+  }
+]
+
+
